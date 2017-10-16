@@ -1,7 +1,6 @@
 # Unit 3: PygLatin - part 10
 
 pyg = 'ay'
-
 original = raw_input('Enter a word:')
 
 if len(original) > 0 and original.isalpha():
