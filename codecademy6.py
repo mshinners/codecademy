@@ -1,3 +1,5 @@
+# Unit 6: School
+
 lloyd = {
   "name": "Lloyd",
   "homework": [90.0, 97.0, 75.0, 92.0],
@@ -16,7 +18,6 @@ tyler = {
   "quizzes": [0.0, 75.0, 78.0],
   "tests": [100.0, 100.0]
 }
-
 # Add your function below!
 def average(numbers):
   total = sum(numbers)
