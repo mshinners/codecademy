@@ -1,3 +1,5 @@
+# Unit 6: School
+
 lloyd = {
   "name": "Lloyd",
   "homework": [90.0, 97.0, 75.0, 92.0],

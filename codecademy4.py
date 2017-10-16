@@ -1,4 +1,4 @@
-# Unit 4: Vacation - part 7
+# Unit 4: Vacation
 
 def hotel_cost(nights):
   return 140 * nights
